@@ -1,6 +1,7 @@
+# %%
 import math
 import numpy as np
-
+#%% 
 # Notebook for user defined units. All dimensional quantities are in GeV = 1
 GeV = 1; 
 TeV = 10**3 * GeV;
